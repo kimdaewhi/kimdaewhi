@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=0000b4&height=250&section=header&text=Daewhi's%20Github!👋🏻&fontSize=80&fontColor=fcfcfc)
 ## 안녕하세요 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaewhi&layout=compact)
