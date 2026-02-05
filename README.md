@@ -9,7 +9,7 @@
 
 <!-- Stat Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaewhi&layout=donut" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko&layout=donut" width=48% />
 </a>    
 
 <!-- Activity Graph -->
